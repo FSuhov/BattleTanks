@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BattleTanks.Gun">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAIAAAAAAgCAAA=</HashCode>
+      <FileName>Gun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleTanks.Ammo">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAgAAAAEAAAAAAAAAQABAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Ammo\Ammo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BattleTanks.Armour">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Armour\Armour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleTanks.Panzer">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAADAABAAFAAEAAAAQAACAAAAAAAAAAAAAmAIiAg=</HashCode>
+      <FileName>Panzer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleTanks.HECartridge">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ammo\HECartridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleTanks.HEATCartridge">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ammo\HEATCartridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleTanks.APCartridge">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ammo\APCartridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleTanks.HArmour">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Armour\HArmour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleTanks.SArmour">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Armour\SArmour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleTanks.CArmour">
+    <Position X="13.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Armour\CArmour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
